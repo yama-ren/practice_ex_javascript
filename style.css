@@ -1,0 +1,14 @@
+.col-sm-4 {
+    background-color: magenta;
+}
+
+.col-sm-8 {
+    background-color: cyan;
+}
+
+.flex-child {
+    background-color: royalblue;
+    height: 120px;
+    border: 1px solid orange;
+    margin: 10px;
+}
